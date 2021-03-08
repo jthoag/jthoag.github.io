@@ -1,0 +1,38 @@
+
+
+.content{
+	padding-top:5%;}
+
+h1{
+	font-family: "Playfair Display", serif;
+	color: #AF533F;
+}
+
+p,
+h3,
+h4{
+	font-family:"Lato", sans serif;
+}
+
+h2{
+	font-family: "Playfair Display", serif;
+	color: #AF533F;
+}
+
+h2,
+h3{
+	text-transform: uppercase;
+}
+
+h3{
+	font-size: 20px;
+}
+
+h4{
+	font-size: 16px;
+}
+
+.date{
+	font-weight:500;
+	color: #BF8478;
+}
