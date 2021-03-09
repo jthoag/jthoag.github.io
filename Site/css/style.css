@@ -36,3 +36,20 @@ h4{
 	font-weight:500;
 	color: #BF8478;
 }
+
+.resume h1{
+	text-transform: uppercase;
+}
+
+li a{
+	color:black;
+	text-decoration: none;
+}
+
+li a:hover{
+	color: #B49690;
+}
+
+.clips h4{
+	color:#AF533F;
+}
