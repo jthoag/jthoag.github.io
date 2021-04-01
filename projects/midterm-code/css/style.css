@@ -52,8 +52,6 @@ h5{
 	padding-bottom: 2%;
 	margin-top: 2%;
 	margin-bottom: 2%;
-
-
 }
 
 
@@ -93,4 +91,17 @@ h6{
 
 .orange-box{
 	background-color: #fc5f1a;
+}
+
+.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+}
+
+.grand {
+	margin-right: 0%;
+	margin-left: auto;
+	display: block;
 }
