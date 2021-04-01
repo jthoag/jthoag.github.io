@@ -3,9 +3,28 @@ h1{
 	color: #010833;
 }
 
+
 .header{
 	font-size: 120px;
 }
+
+@media (min-width: 576px) {
+	.line1, .line3  {
+		font-family: "Anton", sans-serif;
+		font-size: 60px;
+		color:#010833;
+		text-align: center; 
+	}
+	}
+
+@media (min-width: 576px) {
+	.line2  {
+		font-family: "Anton", sans-serif;
+		font-size: 120px;
+		color:#010833;
+		text-align: center; 
+	}
+	}
 
 
 p{
@@ -15,11 +34,25 @@ p{
 }
 
 
+@media (min-width: 576px) (line-height: 1.75) { .text
+	{
+		font-family: "Nunito", sans-serif;
+		font-size: 18px;
+	}	
+	}
 h2{
 	font-family: "anton", serif;
 	color: #010833;
 	font-size: 30px;
 }
+
+@media (min-width: 768px) {.hyphens
+	{
+		padding-left: 4%;
+		padding-right: 4%;
+	}	
+	}
+
 
 .hyphens{
 	padding-top:5%;
@@ -100,8 +133,4 @@ h6{
 	width: 50%;
 }
 
-.grand {
-	margin-right: 0%;
-	margin-left: auto;
-	display: block;
-}
+
