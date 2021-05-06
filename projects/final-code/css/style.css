@@ -2,6 +2,11 @@ h1{
 	font-family: "Krona One", serif;
 	color: #0C640E;
 	font-size: 60px;
+	padding-top: 2%;
+	padding-bottom: 2%;
+	margin-top: 2%;
+	margin-bottom: 2%;
+	text-align: center;
 }
 
 
@@ -10,12 +15,22 @@ h2{
 	font-family: "Orelega One", serif;
 	color: #307B0D;
 	font-size: 40px;
+	padding-top: 1%;
+	padding-bottom: 1%;
+	margin-top: 1%;
+	margin-bottom: 1%;
+	text-align: center;
 }
 
 h3{
 	font-family: "Work Sans", serif;
 	color: #8B1212;
 	font-size: 25px;
+	padding-top: 1%;
+	padding-bottom: 1%;
+	margin-top: 1%;
+	margin-bottom: 1%;
+	text-align: center;
 }
 
 
@@ -23,4 +38,14 @@ p{
 	font-family: "Playfair Display", serif;
 	color: #143504;
 	font-size: 18px;
+	margin-top: 1%;
+	margin-bottom: 1%;
+	text-align: center;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
