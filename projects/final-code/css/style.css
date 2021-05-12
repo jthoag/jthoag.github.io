@@ -1,7 +1,8 @@
 h1{
-	font-family: "Krona One", serif;
+	font-family: "Playfair Display", serif;
 	color: #0C640E;
-	font-size: 60px;
+	font-size: 80px;
+	font-weight: 800;
 	padding-top: 2%;
 	padding-bottom: 2%;
 	margin-top: 2%;
@@ -26,10 +27,10 @@ h3{
 	font-family: "Work Sans", serif;
 	color: #8B1212;
 	font-size: 25px;
-	padding-top: 1%;
-	padding-bottom: 1%;
-	margin-top: 1%;
-	margin-bottom: 1%;
+	padding-top: .5%;
+	padding-bottom: .5%;
+	margin-top: .5%;
+	margin-bottom: .5%;
 	text-align: center;
 }
 
@@ -49,3 +50,20 @@ p{
   margin-right: auto;
   width: 50%;
 }
+
+
+.gold-box {
+    background-color: #D1C64D;
+    color: black;
+    }
+
+.silver-box {
+	background-color: #A8A8A8;
+    color: black;
+    }
+
+.bronze-box {
+	background-color: #A25E00;
+    color: black;
+}
+
